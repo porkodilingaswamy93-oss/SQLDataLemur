@@ -1,8 +1,9 @@
-one row - represent entity
-column names to display
-from table names (JOIN used)
-Where condition - row level works
-Group by - group level works
-Having - group by - condition apply
-Select statement
-order by - ASC, DESC (works last)
+- One row – represent entity  
+- Column names to display  
+- FROM table names (JOIN used)  
+- WHERE condition – row level works  
+- GROUP BY – group level works  
+- HAVING – group by – condition apply  
+- SELECT statement  
+- ORDER BY – ASC, DESC (works last)
+
